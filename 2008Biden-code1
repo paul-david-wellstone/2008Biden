@@ -29,7 +29,7 @@ campaignTrail_temp.election_json = [
         "pk": 9,
         "fields": {
             "year": 2000,
-            "summary": "<div style='overflow-y:scroll;height:200px;'><p>8 turbulent years under George W. Bush have left America polarized, as issues such as the Iraq War and the staggering economy ominously loom over the 2008 presidential election while the Democrats seem poised to take back the White House.</p><ul><li>Joseph R. Biden represents the ideological center, and foreign policy conscious of the Democratic Party, and hopes to win by attacking his other opponents in the primaries and offering change from the unpopular Bush.</li><p><li>John S. McCain must differentiate himself from a slate of conservative challengers while making sure his maverick positions seem palatable to most GOP voters and to emphasize that he is different from the current President.</li></ul></p>",
+            "summary": "<p>8 turbulent years under George W. Bush has left America polarized, as issues such as the Iraq War and the economy loom over the 2008 presidential election.</p><ul><li>Joe Biden represents the ideological center of the Democratic Party and hopes to win by attacking his other opponents in the primaries and offering change from Bush.</li><p><li>John McCain must differentiate himself from a slate of conservative challengers while making his maverick positions seem palatable to most G.O.P voters.</li></ul></p>",
             "image_url": "https://paul-david-wellstone.neocities.org/bidone.png",
             "winning_electoral_vote_number": 270,
             "advisor_url": "https://www.jetsimon.com/public/static/images/rove-brazile.jpg",
@@ -57,7 +57,7 @@ campaignTrail_temp.candidate_json = [
             "color_hex": "#cb3536",
             "secondary_color_hex": "#df9a86",
             "is_active": 0,
-            "image_url": "https://i.postimg.cc/x1fxsdn6/mccainbiden2008.png",
+            "image_url": "https://www.jetsimon.com/public/static/images/al-gore-2000.jpg",
             "electoral_victory_message": "<h3>Congratulations! You have won the 2000 election.</h3><p>Though it was perhaps expected, you could have easily faltered at a number of points. Credit to you for pulling through.</p><p>On the political front, you can continue the Clinton legacy and strengthen Social Security for generations to come. Perhaps you can succeed on health care where Clinton came up short? Or maybe you can create a future of renewable energy for America. Just be wary of a (George or Jeb?) Bush challenge in 2004.</p>",
             "electoral_loss_message": "<h3>Sorry! You have lost the 2000 election.</h3><p>Surely the second-guessing will be intense, but if things were close you could probably run again in 2004.</p><p>It seems that with George W. Bush and a Republican majority, the United States can expect some conservative policy-making over the next four years. Hopefully Bush comes through on his promise to govern in a bipartisan, conciliatory manner. A lot should depend on the margin of his victory, and whether it was large or small.</p>",
             "no_electoral_majority_message": "<h3>Sorry! You have lost in a squeaker.</h3><p>No candidate achieved a majority of the electoral votes, for the first time since 1824. Unfortunately for you, a majority of states have Republican controlled congressional delegations.</p><p>It seems that with George W. Bush and a Republican majority, the United States can expect some conservative policy-making over the next four years. Hopefully Bush comes through on his promise to govern in a bipartisan, conciliatory manner.</p>",
@@ -76,11 +76,11 @@ campaignTrail_temp.candidate_json = [
             "party": "Democrat",
             "state": "Delaware",
             "priority": 1,
-            "description": "<p><blockquote style='border-style: solid!important; border-width: .1em!important; border-radius: 3px!important; color:#6790d3!important; border-color:#a9b6cb!important;margin: px 5px; padding: 2.5px; background: linear-gradient( 135deg, #FFFFFF, #f2f6ff )!important; font-style: italic; font-size: 12px;'>“Failure at some point in your life is inevitable, but giving up is unforgivable.”</blockquote></p><p>Diamond Joe is not the boy wonder he was when he entered the Senate over 30 years ago. With over 6 terms as a senator, he has built quite an impressive resume, penning the 1994 Clinton crime bill while chairing the Senate Judiciary and Foreign Relations committees, in that order.</p><p>Biden desperately needs this campaign to work. However, with Joe in his late 60s and constantly getting his foot stuck in his mouth, along with facing popular senator and first lady Hillary Clinton in the Democratic primaries, it might take only one mistake for his campaign to blow up in his face.",
+            "description": "<p><blockquote style='border-style: solid!important; border-width: .1em!important; border-radius: 3px!important; color:#6790d3!important; border-color:#a9b6cb!important;margin: px 5px; padding: 2.5px; background: linear-gradient( 135deg, #FFFFFF, #f2f6ff )!important; font-style: italic; font-size: 12px;'>“Failure at some point in your life is inevitable, but giving up is unforgivable.”</blockquote></p><p>Diamond Joe is not the boy wonder he was when he entered the Senate over 30 years ago. With over 6 terms as a senator, he has built quite an impressive resume, penning the 1994 Clinton crime bill while chairing the Senate Judiciary and Foreign Relations committees in that order.</p><p>Biden desperately needs this campaign to work. However, with Joe in his late 60s and him constantly getting his foot stuck in his mouth, along with him facing popular senator and first lady Hillary Clinton in the Democratic primaries, means it might take only one mistake for his campaign to blow up in his face.",
             "color_hex": "#2d78a0",
             "secondary_color_hex": "#81aec6",
             "is_active": 1,
-            "image_url": "https://i.postimg.cc/FRW0G9FT/joebiden2008.png",
+            "image_url": "https://paul-david-wellstone.neocities.org/newbiden08image.png",
             "electoral_victory_message": "<h3>Congratulations! You have won the 2000 election.</h3><p>Confounding the predictions of many experts, you were able to turn the tables on Al Gore, in spite of the economy and Clinton's popularity.</p><p>On the political front, you can push for tax cuts to spur the economy and return the budget surplus to the American people. You might also pursue education and immigration reform, individual Social Security accounts, and new laws to defend the family and the sanctity of life.</p>",
             "electoral_loss_message": "<h3>Sorry! You have lost the 2000 election.</h3><p>Perhaps it was always a long-shot, with the Democrats in such a commanding position after eight years of Bill Clinton. In any case, at least you are still the Governor of Texas.</p><p>Expect Al Gore to unleash a new round of government programs and environmental regulations. You are still youngish, however. If the election was close this time, perhaps you can run again in 2004, or work on behalf your brother Jeb.</p>",
             "no_electoral_majority_message": "<h3>Wow! You have won in a squeaker.</h3><p>No candidate achieved a majority of the electoral votes, marking the first time this has happened since 1824. Fortunately for you, the majority of U.S. states have Republican controlled congressional delegations, and they will cast their votes accordingly.</p><p>Given the incredibly close nature of the election, you will surely be expected to govern as a moderate, conciliatory President. Right??</p>",
@@ -96,7 +96,7 @@ campaignTrail_temp.candidate_json = [
             "first_name": "Ralph",
             "last_name": "Nader",
             "election": 9,
-            "party": "Independent",
+            "party": "Green",
             "state": "Connecticut",
             "priority": 3,
             "description": "<p>Ralph Nader enters the 2000 election as the Green candidate after years as an activist and consumer advocate.</p><p>After eight years of Bill Clinton, it is clear that the United States needs a true liberal alternative -- one that will fight for fair trade, universal health care, free college, and campaign finance reform. Nader's primary goal in this election is to win 5% of the popular vote, which will qualify the Green Party for federal matching funds in 2004.</p>",
@@ -116,10 +116,10 @@ campaignTrail_temp.candidate_json = [
         "model": "campaign_trail.candidate",
         "pk": 80,
         "fields": {
-            "first_name": "Bob",
-            "last_name": "Barr/Others",
+            "first_name": "Pat",
+            "last_name": "Buchanan",
             "election": 9,
-            "party": "Libertarian/Others",
+            "party": "Reform",
             "state": "Virginia",
             "priority": 4,
             "description": "''",
@@ -149,11 +149,11 @@ campaignTrail_temp.candidate_json = [
             "color_hex": "#2d78a0",
             "secondary_color_hex": "#81aec6",
             "is_active": 0,
-            "image_url": "https://i.postimg.cc/MHrn809Q/timkainebiden08.png",
+            "image_url": "https://paul-david-wellstone.neocities.org/newnewbiden08image.png",
             "electoral_victory_message": "''",
             "electoral_loss_message": "''",
             "no_electoral_majority_message": "''",
-            "description_as_running_mate": "<p><blockquote style='border-style: solid!important; border-width: .1em!important; border-radius: 3px!important; color:#6790d3!important; border-color:#a9b6cb!important;margin: px 5px; padding: 2.5px; background: linear-gradient( 135deg, #FFFFFF, #f2f6ff )!important; font-style: italic; font-size: 12px;'>“I’m not going to be somebody’s punching bag.”</blockquote><p>Riding the wave of dissatisfaction against Bush, Tim Kaine was able to win his state governorship in 2005, and has since then governed as a pragmatic moderate, while his honorable response to the Virginia Tech shooting has grown his national profile.</p><p>Kaine would be a fine choice for VP. His fluency in Spanish could help in the southwest, while his inclusion on the ticket should be enough to shift Virginia to the Democrats. However, Kaine is not a very captivating speaker, and the party's left flank may not react to his choice very well.</p>",
+            "description_as_running_mate": "<p><blockquote style='border-style: solid!important; border-width: .1em!important; border-radius: 3px!important; color:#6790d3!important; border-color:#a9b6cb!important;margin: px 5px; padding: 2.5px; background: linear-gradient( 135deg, #FFFFFF, #f2f6ff )!important; font-style: italic; font-size: 12px;'>“I’m not going to be somebody’s punching bag.”</blockquote><p>Riding the wave of dissatisfaction against Bush, Tim Kaine was able to win his state governorship in 2005. And has since then governed as a pragmatic moderate, while his honorable response to the Virginia Tech shooting has grown his national profile.</p><p>Kaine would be a fine choice for VP. His fluency in Spanish could help in the southwest, while his inclusion on the ticket should be enough to shift Virginia to the Democrats. However, Kaine is not a very captivating speaker, and the parties' left flank may not react to his choice very well.</p>",
             "candidate_score": 0,
             "running_mate": true
         }
@@ -172,11 +172,11 @@ campaignTrail_temp.candidate_json = [
             "color_hex": "#2d78a0",
             "secondary_color_hex": "#81aec6",
             "is_active": 0,
-            "image_url": "https://i.postimg.cc/dtMhF7f3/evanbayhbiden2098.png",
+            "image_url": "https://paul-david-wellstone.neocities.org/newnewnewbiden08image.png",
             "electoral_victory_message": "''",
             "electoral_loss_message": "''",
             "no_electoral_majority_message": "''",
-            "description_as_running_mate": "<p><blockquote style='border-style: solid!important; border-width: .1em!important; border-radius: 3px!important; color:#6790d3!important; border-color:#a9b6cb!important;margin: px 5px; padding: 2.5px; background: linear-gradient( 135deg, #FFFFFF, #f2f6ff )!important; font-style: italic; font-size: 12px;'>“I love working for the people of Indiana. I love helping our citizens make the most of their lives, but I do not love Congress.”</blockquote></p><p>Unlike his progressive father, Birch Bayh, Senator Evan Bayh has become the de facto leader of the ''Blue Dogs'', cosponsoring the Iraq War resolution and supporting much of the Bush administration's policies in Iraq while chairing various centrist Democratic organizations like the Democratic Leadership Council.</p><p>Choosing Bayh would reinforce you ideologically as a more moderate Democrat, and his personal popularity could be enough to make the Hoosier State competitive. However, his hawkish policy on Iraq clashes with your policy, and his choice would definitely anger the party's left flank.</p>",
+            "description_as_running_mate": "<p><blockquote style='border-style: solid!important; border-width: .1em!important; border-radius: 3px!important; color:#6790d3!important; border-color:#a9b6cb!important;margin: px 5px; padding: 2.5px; background: linear-gradient( 135deg, #FFFFFF, #f2f6ff )!important; font-style: italic; font-size: 12px;'>“As Indiana’s governor, I balanced eight budgets, never raised taxes, and left the largest surplus in state history”</blockquote></p><p>Unlike his progressive father, Birch Bayh, Senator Evan Bayh has become the de facto leader of the ‘blue dogs’, cosponsoring the Iraq war resolution and supporting much of the Bush administration's policies in Iraq while chairing various centrist Democratic organizations like the Democratic Leadership Council.</p><p>Choosing Bayh would ideologically enforce you as a more moderate democrat, and his personal popularity could be enough to make the Hoosier state competitive. However, his hawkish policy for Iraq clashes with your policy, and his choice would definitely anger the parties left flank.</p>",
             "candidate_score": 0,
             "running_mate": true
         }
@@ -185,21 +185,21 @@ campaignTrail_temp.candidate_json = [
         "model": "campaign_trail.candidate",
         "pk": 83,
         "fields": {
-            "first_name": "Barack",
-            "last_name": "Obama",
+            "first_name": "Tom",
+            "last_name": "Ridge",
             "election": 9,
-            "party": "Democrat",
-            "state": "Illinois",
+            "party": "Republican",
+            "state": "Pennsylvania",
             "priority": 7,
             "description": "''",
-            "color_hex": "#2d78a0",
-            "secondary_color_hex": "#81aec6",
+            "color_hex": "#FF0000",
+            "secondary_color_hex": "#FFA0A0",
             "is_active": 0,
-            "image_url": "https://i.postimg.cc/DyY11fjH/barackobamabiden08.png",
+            "image_url": "https://www.jetsimon.com/public/static/images/tom-ridge-2000.jpg",
             "electoral_victory_message": "''",
             "electoral_loss_message": "''",
             "no_electoral_majority_message": "''",
-            "description_as_running_mate": "<p><blockquote style='border-style: solid!important; border-width: .1em!important; border-radius: 3px!important; color:#6790d3!important; border-color:#a9b6cb!important;margin: px 5px; padding: 2.5px; background: linear-gradient( 135deg, #FFFFFF, #f2f6ff )!important; font-style: italic; font-size: 12px;'>“There is not a liberal America and a conservative America - there is the United States of America. There is not a Black America and a white America and Latino America and Asian America - there's the United States of America.”</blockquote></p><p>Barry is a junior Senator representing Illinois, he's been seen as a rising star within the party ever since his speech at the 2004 DNC.</p><p>Despite not having a lot of governmental experience, he could prove invaluable on your ticket. Barry would galvanize the black vote in your favor, and his charisma is an asset. Most beneficial of all, he’s the perfect balance between the moderate and left wings of the party; he’ll satisfy the leftists without scaring off moderates. Though, be careful not to rely on him too much, as his likeability could overshadow your presence on the ticket...</p>",
+            "description_as_running_mate": "<p>Tom Ridge is the popular Governor of a large swing state. Pennsylvania's 23 electoral votes would almost ensure a Bush victory if Ridge could deliver them. He has a reputation as an able administrator and has been very tough on crime. However, he has also been pro-choice for his entire career, and his selection as running mate could cause issues with the Republican base in other regions.</p>",
             "candidate_score": 0,
             "running_mate": true
         }
@@ -208,21 +208,21 @@ campaignTrail_temp.candidate_json = [
         "model": "campaign_trail.candidate",
         "pk": 84,
         "fields": {
-            "first_name": "Kathleen",
-            "last_name": "Sebelius",
+            "first_name": "Colin",
+            "last_name": "Powell",
             "election": 9,
-            "party": "Democrat",
-            "state": "Kansas",
+            "party": "Republican",
+            "state": "Virginia",
             "priority": 8,
             "description": "''",
-            "color_hex": "#2d78a0",
-            "secondary_color_hex": "#81aec6",
+            "color_hex": "#FF0000",
+            "secondary_color_hex": "#FFA0A0",
             "is_active": 0,
-            "image_url": "https://i.postimg.cc/3r1MZzHt/kathleensebiden2008.png",
+            "image_url": "https://www.jetsimon.com/public/static/images/colin-powell-2000.jpg",
             "electoral_victory_message": "''",
             "electoral_loss_message": "''",
             "no_electoral_majority_message": "''",
-            "description_as_running_mate": "<p><blockquote style='border-style: solid!important; border-width: .1em!important; border-radius: 3px!important; color:#6790d3!important; border-color:#a9b6cb!important;margin: px 5px; padding: 2.5px; background: linear-gradient( 135deg, #FFFFFF, #f2f6ff )!important; font-style: italic; font-size: 12px;'>“The essence of good government is trust.”</blockquote></p><p>Kathleen is a bipartisan gal from the (admittedly boring) state of Kansas. She's the Governor of that state, and her father held the office before her. Despite it being a Republican heartland, she, as a Democrat, has run a fairly popular administration there.</p><p>Selecting her as your VP would energize women and possibly moderates in your favor. She has bipartisan credentials while holding liberal positions on some issues that could help you mend fences with the left wing. She will definitely improve your polling in the Plains States, however, barring any miracles, Kansas is universally not expected to be competitive even with Kathleen on the ticket.</p>",
+            "description_as_running_mate": "<p>Colin Powell is a moderate Republican and a key general from the Desert Storm campaign. He enjoys high personal popularity among the American electorate. He would be the first African-American to be a running mate for a major party. It will take some strong inducements to get Powell to run, however. He has repeatedly stated that he is not seeking the role, but perhaps you could persuade him by taking a moderate position on the social issues of the day.</p>",
             "candidate_score": 0,
             "running_mate": true
         }
@@ -453,7 +453,7 @@ campaignTrail_temp.running_mate_json = [
 campaignTrail_temp.credits = "<button onclick='credits()'>Ryker & Others</button>"
 
 credits = function() {
-credits = [ "Lead Developer:", "Ryker", " ", "Coders:", "Paul David Wellstone", "StrawberryMaster", "theanswerisme", " ", "Writers:", "ThatQuayleSimp", "theanswerisme", "PingPongProductions", "Junior", "Person", " ", "Editor:", "TaviTales", " ", "Version:", "Indev",]
+credits = [ "Lead Developer:", "Ryker", " ", "Coders:", "Paul David Wellstone", "StrawberryMaster", " ", "Writers:", "ThatQuayleSimp", "theanswerisme", "PingPongProductions", "Junior", "Person", " ", "Editor:", "TaviTales", " ", "Version:", "Indev",]
 text = "CREDITS AND GAME VERSION:\n\n"
 for (i in credits) {
     text += credits[i] + "\n"
@@ -555,9 +555,7 @@ document.styleSheets[0].insertRule(".inner_window_question h3, #state_info h3, #
 
 document.styleSheets[0].insertRule(" h3, h1, b, strong, #credits, #running_mate_description_window li, #candidate_description_window li {color: #494949!important;", 0);
 
-document.styleSheets[0].insertRule(".campaign_trail_start_emphasis, #menu_container, #overall_result_container, #state_result_container {background-color:transparent!important;", 0);
-
-document.styleSheets[0].insertRule(" select, button {border-style: solid!important; border-width: .125em!important; border-radius: 3px!important; color:#6790d3!important; border-color:#808fa9!important; background: linear-gradient( #f2f6ff, #FFFFFF )!important; box-shadow: 0 0 10px rgba(73, 73, 73, 0.45)!important;", 0);
+document.styleSheets[0].insertRule("#menu_container, #overall_result_container, #state_result_container {background-color:transparent!important;", 0);
 
 document.styleSheets[0].insertRule("#game_window{ height:41em !important;}", 0);
 document.styleSheets[0].insertRule("#main_content_area { height:81% !important;}", 0);
@@ -565,7 +563,7 @@ document.styleSheets[0].insertRule(".inner_window_question{ margin:0.25em 0.25em
 
 document.head.innerHTML += `<link
 	rel="stylesheet"
-	href="https://unpkg.com/7.css@0.21.1/dist/7.css"
+	href="https://unpkg.com/7.css"
 >`
 
 document.head.innerHTML += `<style>
@@ -593,41 +591,16 @@ function addDynamicCSS() {
 		#main_content_area_reading h3.results_tab_header {
 			color: white;
 		}
+		h3, #running_mate_description_window li, #candidate_description_window li {
+			font-family: Trebuchet MS, Arial, Helvetica Neue, Helvetica, sans-serif !important;
+		}
+		button, select {
+			font-family: Trebuchet MS, Arial, Helvetica Neue, Helvetica, sans-serif !important;
+			border-radius: 5px;
+		}
 		.inner_window_w_desc h3 {
 			color: white;
 		}
-  .overlay_window h3 {
-    background-color: #c0c4d5;
-  }
-  .inner_window_question h3 {
-    background-color: #c0c4d5;
-  }
-  #overall_result_container {
-    background-color: #c0c4d5;
-  }
- #state_result_container {
-   background-color: #c0c4d5;
-}
-#state_info h3 {
-  background-color: #C0C4D5;
-}
-#menu_container {
-  background-color: #C0C4D5 !important;
-    }
-#state_result h3 {
-  background-color: #C0C4D5;
-}
-#overall_result h3 {
-  background-color: #C0C4D5;
-}
-#map_container {
-  background: #F8F8F8;
-  border-radius: 1px;
-  box-shadow:
-    inset 0 0 4px rgba(0, 0, 0, 0.08),
-    0 0 0 2px rgba(0, 0, 0, 0.04);
-  overflow: hidden;
-}
   		.campaign_trail_start_emphasis {
     		background-color: #2E3C76;
 
